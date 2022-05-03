@@ -1,0 +1,20 @@
+.container {
+    background-color: lightgray;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    height: 100vh;
+}
+
+.col {
+    width: 33.33%;
+    float: left;
+    height: 100px;
+    background-color: salmon;
+    border: 1px solid black;
+    box-sizing: border-box;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+}
